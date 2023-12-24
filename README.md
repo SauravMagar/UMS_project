@@ -1,1 +1,1 @@
-# management-of-university
+# UMS_SOFTWARE PROJECT
